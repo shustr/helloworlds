@@ -6,5 +6,7 @@ of any language I'd need: echoes, loops, variables, etc.
 Files' names convention:
 
 hello*		- actual "Hello, World!" scripts
+
 fizzbuzz*	- fizzbuzz scripts
+
 menu*		- scripts prompting input based on shown menu 
