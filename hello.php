@@ -1,1 +1,6 @@
-<?php echo 'Hello, World!'; ?>
+#  "Hello, World!" script for PHP. 
+#
+
+<?php 
+	echo 'Hello, World!'; 
+?>
